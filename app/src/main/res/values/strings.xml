@@ -1,7 +1,4 @@
 <resources>
-    <string name="app_name">TP 1 - First App</string>
-    <string name="welcome_title">Welcome to TP 1</string>
-    <string name="enter_name_hint">Enter your name</string>
-    <string name="greet_button_text">Say Hello</string>
-    <string name="greeting_template">Hello, %s!</string>
+    <string name="app_name">TP 01 - First App</string>
+    <string name="student_name">Bassim Bounemala</string>
 </resources>
